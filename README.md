@@ -1,2 +1,2 @@
 # my-first-git
-this is my first test git repository
+this is my first test git repository.
